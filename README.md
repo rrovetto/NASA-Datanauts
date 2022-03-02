@@ -25,7 +25,7 @@ A goal of the initiative was to increase presence of women in data science, NASA
 - [Unrelated podcast that includes a former Datanaut member discussing it](https://www.listennotes.com/podcasts/the-fat-pipe-of/datanauts-074-understanding-8yjbldHSqUZ/) 
 
 ## From NASA.gov website
-- [2016 Datanauts Kickoff Event - Gallary](https://www.nasa.gov/content/nasa-2016-datanauts/) - [Screen-capture image of the website](https://github.com/rrovetto/NASADatanauts/blob/a80d86aaac08ef363345b2d1489561935ce2ed2e/Images/Datanauts_NASAwebsite.JPG)
+- [2016 Datanauts Kickoff Event Gallary](https://www.nasa.gov/content/nasa-2016-datanauts/) - See this [screen-capture image of the website](https://github.com/rrovetto/NASADatanauts/blob/a80d86aaac08ef363345b2d1489561935ce2ed2e/Images/Datanauts_NASAwebsite.JPG)
 - [2016 Kickoff example](https://www.nasa.gov/image-feature/datanauts)
 
 ## From Wayback machine
