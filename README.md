@@ -1,12 +1,13 @@
 # NASADatanauts
-A repository stores historical information about the NASA Datanauts, and my work therein.
+A repository storing historical information about the NASA Datanauts, and my work therein.
 
-## About
+## About the NASA Datanauts open data initiative
 The NASA Datanauts (2016-2020) was an open data initiative formed in 2015 through the NASA Office of the Chief Information Officer.
 Beginning in 2016, it consisted of yearly classes of selected applicants interested in data topics and utilizing NASA data.
 NASA employees were part of the classes, some serving as mentors.
 
 _Official GitHub Repository_: https://github.com/NASADatanauts/
+
 _Original website_: https://open.nasa.gov/explore/datanauts/ (now offline, archived in Wayback Machine website)
 
 ### Videos
