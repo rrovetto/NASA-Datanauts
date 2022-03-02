@@ -39,4 +39,4 @@ A goal of the initiative was to increase presence of women in data science, NASA
 - [2020 call](https://www.federalregister.gov/documents/2020/01/16/2020-00553/nasa-datanaut-applicant-selection)
 
 # About my involvment
-I applied to the program in 2017 and was accepted into the Spring 2017 class. I gave a power-point presentation on ontology, and attended regular meetings, and sessions. I worked with a NASA employee. The work eventually became a NASA Technical Memorandum. The images folder contains some screen-captures providing proof of my membership.
+I applied to the program in 2017 and was accepted into the Spring 2017 class. I gave a presentation on ontology [purchase here](https://tinyurl.com/4ap2mvcs), and attended regular meetings, and sessions. I worked with a NASA employee. The work eventually became a NASA Technical Memorandum. The images folder contains some screen-captures providing proof of my membership.
