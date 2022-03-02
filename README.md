@@ -3,7 +3,7 @@ This is a repository storing historical information about the NASA Datanauts ini
 # About the NASA Datanauts open data initiative
 The NASA Datanauts (2016-2020) was an open data initiative formed in 2015 through the NASA Office of the Chief Information Officer.
 Beginning in 2016, it consisted of yearly classes of selected applicants interested in data topics and utilizing NASA data.
-NASA employees were part of the classes, some serving as mentors.
+NASA employees were part of the classes, some serving as subject-matter experts and mentors.
 A goal of the initiative was to increase presence of women in data science, NASA, and STEM disciplines.
 
 **Logo**: [Version 1](https://github.com/rrovetto/NASADatanauts/blob/c18034a876dd2acb0d86a19a7e1c92b7af9b994f/Images/datanauts-logo-purple.png), [version 2](https://github.com/rrovetto/NASADatanauts/blob/c18034a876dd2acb0d86a19a7e1c92b7af9b994f/Images/Datanauts-logo.jpg)
