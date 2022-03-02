@@ -7,6 +7,7 @@ Beginning in 2016, it consisted of yearly classes of selected applicants interes
 NASA employees were part of the classes, some serving as mentors.
 A goal of the initiative was to increase presence of women in data science, NASA, and STEM disciplines.
 
+_Logo_: [Version 1](https://github.com/rrovetto/NASADatanauts/blob/c18034a876dd2acb0d86a19a7e1c92b7af9b994f/Images/datanauts-logo-purple.png), [version 2](https://github.com/rrovetto/NASADatanauts/blob/c18034a876dd2acb0d86a19a7e1c92b7af9b994f/Images/Datanauts-logo.jpg)
 _Official GitHub Repository_: https://github.com/NASADatanauts/
 
 _Original website_: https://open.nasa.gov/explore/datanauts/ (now offline, archived in Wayback Machine website)
@@ -17,7 +18,7 @@ _Original website_: https://open.nasa.gov/explore/datanauts/ (now offline, archi
 
 ### News stories
 - [2015 - How NASA broke the gender barrier in STEM](https://www.fastcompany.com/3047618/how-nasa-broke-the-gender-barrier-in-stem)
-- [2017 - DataDiscovery Magazine](https://issuu.com/secondmuse/docs/nasa-datanauts-2017) - ([Cover page](https://github.com/rrovetto/NASADatanauts/blob/4e1eaeed62d71afbd50179733faf5f9b8add471c/Images/DataDiscovery_Datanauts.png)) & ([First page](https://github.com/rrovetto/NASADatanauts/blob/4e1eaeed62d71afbd50179733faf5f9b8add471c/Images/DataDiscovery_Datanauts_1.png))
+- [2017 - DataDiscovery Magazine](https://issuu.com/secondmuse/docs/nasa-datanauts-2017) - ([Cover page](https://github.com/rrovetto/NASADatanauts/blob/c18034a876dd2acb0d86a19a7e1c92b7af9b994f/Images/DataDiscovery2017_datanauts_cover.jpg)) & ([First page](https://github.com/rrovetto/NASADatanauts/blob/4e1eaeed62d71afbd50179733faf5f9b8add471c/Images/DataDiscovery_Datanauts_1.png))
 - [2017 event](https://nasadatanauts-upstateny.weebly.com/)
 
 ### Podcasts
