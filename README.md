@@ -5,6 +5,7 @@ A repository storing historical information about the NASA Datanauts, and my wor
 The NASA Datanauts (2016-2020) was an open data initiative formed in 2015 through the NASA Office of the Chief Information Officer.
 Beginning in 2016, it consisted of yearly classes of selected applicants interested in data topics and utilizing NASA data.
 NASA employees were part of the classes, some serving as mentors.
+A goal of the initiative was to increase presence of women in data science, NASA, and STEM disciplines.
 
 _Official GitHub Repository_: https://github.com/NASADatanauts/
 
