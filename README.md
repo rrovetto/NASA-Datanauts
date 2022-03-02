@@ -28,7 +28,7 @@ A goal of the initiative was to increase presence of women in data science, NASA
 - [2016 Datanauts Kickoff Event - Gallary](https://www.nasa.gov/content/nasa-2016-datanauts/)
 - [2016 Kickoff example](https://www.nasa.gov/image-feature/datanauts)
 
-## From Waybackmachine
+## From Wayback machine
 - [12 July 2016 Story - Description of origins - 16Dec2016 web capture ](https://web.archive.org/web/20161216220450/https://open.nasa.gov/blog/meet-nasa-datanauts-2016-class/)
 - [Datanauts webpage 2016 founding class](https://web.archive.org/web/20161222231106/https://open.nasa.gov/explore/datanauts/)
 - [24 Dec 2017 web-capture](https://web.archive.org/web/20171224205710/https://open.nasa.gov/explore/datanauts/)
