@@ -6,7 +6,7 @@ Beginning in 2016, it consisted of yearly classes of selected applicants interes
 NASA employees were part of the classes, some serving as subject-matter experts and mentors.
 A goal of the initiative was to increase presence of women in data science, NASA, and STEM disciplines.
 
-**Logo**: [Version 1](https://github.com/rrovetto/NASADatanauts/blob/c18034a876dd2acb0d86a19a7e1c92b7af9b994f/Images/datanauts-logo-purple.png), [version 2](https://github.com/rrovetto/NASADatanauts/blob/c18034a876dd2acb0d86a19a7e1c92b7af9b994f/Images/Datanauts-logo.jpg)
+**Logo**: [A version without background](https://github.com/rrovetto/NASADatanauts/blob/c18034a876dd2acb0d86a19a7e1c92b7af9b994f/Images/datanauts-logo-purple.png), and [a version with background](https://github.com/rrovetto/NASADatanauts/blob/c18034a876dd2acb0d86a19a7e1c92b7af9b994f/Images/Datanauts-logo.jpg)
 
 **Official GitHub Repository**: https://github.com/NASADatanauts/
 
