@@ -18,6 +18,7 @@ _Original website_: https://open.nasa.gov/explore/datanauts/ (now offline, archi
 ### News stories
 - [2015 - How NASA broke the gender barrier in STEM](https://www.fastcompany.com/3047618/how-nasa-broke-the-gender-barrier-in-stem)
 - [2017 - DataDiscovery Magazine](https://issuu.com/secondmuse/docs/nasa-datanauts-2017) - ([Cover page](https://github.com/rrovetto/NASADatanauts/blob/4e1eaeed62d71afbd50179733faf5f9b8add471c/Images/DataDiscovery_Datanauts.png)) & ([First page](https://github.com/rrovetto/NASADatanauts/blob/4e1eaeed62d71afbd50179733faf5f9b8add471c/Images/DataDiscovery_Datanauts_1.png))
+- [2017 event](https://nasadatanauts-upstateny.weebly.com/)
 
 ### Podcasts
 - [Unrelated podcast that includes a former Datanaut member discussing it](https://www.listennotes.com/podcasts/the-fat-pipe-of/datanauts-074-understanding-8yjbldHSqUZ/) 
