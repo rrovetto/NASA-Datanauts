@@ -13,7 +13,9 @@ A goal of the initiative was to increase presence of women in data science, NASA
 * **Official NASA Datanauts GitHub Repository**: https://github.com/NASADatanauts/
 
 * **Original website** (now offline, archived in Wayback Machine website): https://open.nasa.gov/explore/datanauts/ 
-  * Example page on that web archive website: https://web.archive.org/web/20210303025731/https://open.nasa.gov/explore/datanauts/
+  * Example page on that web archive website: 
+    * 2015 historical capture: https://web.archive.org/web/20151016125155/https://open.nasa.gov/explore/datanauts/
+    * 2021 historical capture: https://web.archive.org/web/20210303025731/https://open.nasa.gov/explore/datanauts/
 
 ## Videos
 - [Space Apps NYC Conference April 28 2017](https://www.youtube.com/watch?v=JoaQctLP2Cg)
