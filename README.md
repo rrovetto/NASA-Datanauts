@@ -6,11 +6,14 @@ Beginning in 2016, it consisted of yearly classes of selected applicants interes
 NASA employees were part of the classes, some serving as subject-matter experts and mentors.
 A goal of the initiative was to increase presence of women in data science, NASA, and STEM disciplines.
 
-**Logo**: [see this version without a background](https://github.com/rrovetto/NASADatanauts/blob/c18034a876dd2acb0d86a19a7e1c92b7af9b994f/Images/datanauts-logo-purple.png), and [this other version with a background](https://github.com/rrovetto/NASADatanauts/blob/c18034a876dd2acb0d86a19a7e1c92b7af9b994f/Images/Datanauts-logo.jpg)
+![Logo](/Images/Datanauts-logo.jpg)
 
-**Official GitHub Repository**: https://github.com/NASADatanauts/
+* **Logo**: [see this version without a background](https://github.com/rrovetto/NASADatanauts/blob/c18034a876dd2acb0d86a19a7e1c92b7af9b994f/Images/datanauts-logo-purple.png), and [this other version with a background](https://github.com/rrovetto/NASADatanauts/blob/c18034a876dd2acb0d86a19a7e1c92b7af9b994f/Images/Datanauts-logo.jpg)
 
-**Original website** (now offline, archived in Wayback Machine website): https://open.nasa.gov/explore/datanauts/ 
+* **Official NASA Datanauts GitHub Repository**: https://github.com/NASADatanauts/
+
+* **Original website** (now offline, archived in Wayback Machine website): https://open.nasa.gov/explore/datanauts/ 
+  * Example page on that web archive website: https://web.archive.org/web/20210303025731/https://open.nasa.gov/explore/datanauts/
 
 ## Videos
 - [Space Apps NYC Conference April 28 2017](https://www.youtube.com/watch?v=JoaQctLP2Cg)
