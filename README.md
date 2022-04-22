@@ -46,6 +46,14 @@ A goal of the initiative was to increase presence of women in data science, NASA
 # About my involvment
 I applied to the program in 2017 and was accepted into the Spring 2017 class. I gave a presentation on ontology ([purchase here](https://tinyurl.com/4ap2mvcs)), and attended regular meetings, and sessions. I worked with a NASA employee. The work eventually became a NASA Technical Memorandum. The images folder contains some screen-captures providing proof of my membership.
 * I'm shown on [this roster webpage](https://web.archive.org/web/20170427003718/https://open.nasa.gov/explore/datanauts/2017/spring/#datanaut-robert-rovetto), linked from the [landing page here](https://web.archive.org/web/20170320091709/https://open.nasa.gov/explore/datanauts/).
+
+Below are screen-captures taken at the time, or taken on the archival website of my Datanauts profile webpage, on roster webpages. 
 ![My profile page](/Images/DatanautRob_Images/NASADatanautsProfile_proof.png)
 
 ![Listing on roster page](/Images/DatanautRob_Images/NASADatanauts2017_roster_rob_webArchiv.JPG)
+
+![Listing on roster page](/Images/DatanautRob_Images/DataDiscovery_Datanauts_Rob.png)
+
+Below is a screen-capture of my presentaiton description
+![My ontology presentation](/Images/DatanautRob_Images/OntoPresentationAd_Datanauts_Rov_1.png)
+
