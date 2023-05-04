@@ -16,6 +16,7 @@ A goal of the initiative was to increase presence of women in data science, NASA
   * Example page on that web archive website: 
     * 2015 historical capture: https://web.archive.org/web/20151016125155/https://open.nasa.gov/explore/datanauts/
     * 2021 historical capture: https://web.archive.org/web/20210303025731/https://open.nasa.gov/explore/datanauts/
+* **Example GitHub pages by a NASA employee who was a manager of the Datanauts**: https://github.com/davidmeza1/NASADatanauts 
 
 ## Videos
 - [Space Apps NYC Conference April 28 2017](https://www.youtube.com/watch?v=JoaQctLP2Cg)
